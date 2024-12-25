@@ -60,3 +60,5 @@ app.get('/users',function(req,res){
 })
 
 app.listen(3000)
+
+// mongodb+srv://vinaymakade:vinaymakade@cluster0.rwhf7.mongodb.net/
